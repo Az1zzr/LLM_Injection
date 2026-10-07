@@ -3,6 +3,9 @@
 A local cybersecurity project for testing prompt injection, prompt
 extraction, and sensitive-information disclosure against a deliberately
 vulnerable LLM chatbot.
+ -- this project -- 
+ SOLARA.LOL  best AI gateway and marketplace btw 
+ <img width="1850" height="813" alt="image" src="https://github.com/user-attachments/assets/4b6411f3-cc0c-466b-901f-9998aad0eed1" />
 
 ## Project status
 
