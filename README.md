@@ -118,13 +118,10 @@ The configuration is supplied through environment variables instead of
 hard-coding the API key in `app.py`:
 
 ``` powershell
-$env:LLM_BASE_URL="https://<your-openai-compatible-gateway>/v1"
+$env:LLM_BASE_URL="https://api.selora.lol/v1"
 $env:LLM_API_KEY="YOUR_API_KEY"
 $env:MODEL="kimi-k3"
 ```
-
-The actual API key must never be committed to GitHub or placed in this
-documentation.
 
 ### Why environment variables are used
 
